@@ -1,3 +1,4 @@
+#Custom
 .HardwareDebuglinker
 .Releaselinker
 .cproject
@@ -7,3 +8,28 @@
 HardwareDebug
 Sist_Op.launch
 custom.bat
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+>>>>>>> github/master
